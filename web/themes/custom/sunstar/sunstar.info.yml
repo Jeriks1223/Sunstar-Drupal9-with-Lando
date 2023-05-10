@@ -1,0 +1,23 @@
+name: Sunstar
+type: theme
+description: 'Sunstar Custom Theme'
+package: Other
+base theme: classy
+version: VERSION
+core_version_requirement: ^9
+
+libraries: 
+- sunstar/global-styling
+
+regions:
+  branding: Branding
+  navigation: Main navigation
+  search: Search
+  featured: Featured
+  menu: Menu
+  content: Content
+  right_sidebar: Right sidebar
+  footer_first: Footer First
+  footer_second: Footer Second
+  footer_third: Footer Third
+  footer_bottom: Footer Bottom
