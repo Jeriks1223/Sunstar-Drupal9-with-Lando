@@ -13,29 +13,40 @@ body {
   
   .header_top {
     background-color: #231f20;
-    padding: 1px 150px;
+    padding: 20px;
     color: #ffd20e;
     font-family: 'Roboto', sans-serif;
     font-size: 12px;
   }
-  
-  .header_middle {
+  .header_top1 {
+    background-color: #FFFF;
+    padding: 20px;
+    color: #ffd20e;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+  }
+  .header_logo {
     background-color: #ffd20e;
-    padding: 40px 150px 30px 150px;
+    padding: 30px 100px;
+
   }
   
-  .header_bottom {
+  .header_main_menu {
+    background-color: #efefef;
+    padding: 20px;
+  }
+  
+  .header_secondary_menu {
     background-color: #231f20;
-    padding: 2px 150px 0px 150px;
+    padding: 20px;
   }
-  
-  content {
+
+  .content {
     position: relative;
     width: 70%;
-    margin: auto;
-  }
+    padding: 25px 100px;  }
   
-  main {
+  .main {
     padding: 25px 150px;
     font-family: 'Roboto', sans-serif;
   }

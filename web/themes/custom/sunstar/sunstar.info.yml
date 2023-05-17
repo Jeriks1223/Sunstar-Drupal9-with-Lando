@@ -10,11 +10,16 @@ libraries:
 - sunstar/global-styling
 
 regions:
+  header_top1: Header Top1
+  header_top: Header Top
+  header_logo: Header Logo
+  header_main_menu: Header Main Menu
+  header_secondary_menu: Header Secondary Menu
   branding: Branding
   navigation: Main navigation
   search: Search
   featured: Featured
-  menu: Menu
+  menu: Main Menu
   content: Content
   right_sidebar: Right sidebar
   footer_first: Footer First
