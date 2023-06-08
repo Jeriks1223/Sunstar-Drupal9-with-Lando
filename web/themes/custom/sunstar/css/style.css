@@ -13,21 +13,25 @@ body {
   
   .header_top {
     background-color: #231f20;
-    padding: 20px;
+    padding: 15px 100px;
     color: #ffd20e;
-    font-family: 'Roboto', sans-serif;
-    font-size: 12px;
+    font-family: 'Roboto Regular';
+    font-size: 15px;
+    letter-spacing: 1px;
   }
   .header_top1 {
     background-color: #FFFF;
-    padding: 20px;
+    padding: 30px 100px;
     color: #ffd20e;
     font-family: 'Roboto', sans-serif;
     font-size: 12px;
   }
   .header_logo {
     background-color: #ffd20e;
-    padding: 30px 100px;
+    padding: 15px 100px;
+    font-family: 'Roboto Bold';
+    font-size: 20px;
+   
 
   }
   
@@ -42,12 +46,11 @@ body {
   }
 
   .content {
-    position: relative;
-    width: 70%;
-    padding: 25px 100px;  }
+    padding: 0px 0px; 
+   }
   
   .main {
-    padding: 25px 150px;
+    padding: 25px 100px;
     font-family: 'Roboto', sans-serif;
   }
   
